@@ -9,8 +9,8 @@ thi is the first commit in the master branch
 <<<<<<< HEAD
 this is edited by stud1 branch
 =======
-this is edited by stud2 branch
->>>>>>> stud2
+this is edited by stud1&2 branch but while merging conflict error occured
+>>>>>>> stud1
 
 first line
 
@@ -20,4 +20,4 @@ second line
 
 =======
 third line
->>>>>>> stud2
+>>>>>>> stud1
