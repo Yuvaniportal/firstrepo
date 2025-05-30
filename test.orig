@@ -1,0 +1,23 @@
+created one directory
+installed and configured git 
+created test file
+git added 
+git commited
+
+thi is the first commit in the master branch
+
+<<<<<<< HEAD
+this is edited by stud1 branch
+=======
+this is edited by stud2 branch
+>>>>>>> stud2
+
+first line
+
+second line
+
+<<<<<<< HEAD
+
+=======
+third line
+>>>>>>> stud2
